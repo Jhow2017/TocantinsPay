@@ -1,16 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Dev\\Estudos\\backend\\DotNet\\TocantinsPay\\TocantinsPay.Api\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{E7B7F16C-E5DF-4E5C-9D26-C2F5537E84B4}|TocantinsPay.Api\\TocantinsPay.Api.csproj|d:\\dev\\estudos\\backend\\dotnet\\tocantinspay\\tocantinspay.api\\tocantinspay.api\\tocantinspay.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{E7B7F16C-E5DF-4E5C-9D26-C2F5537E84B4}|TocantinsPay.Api\\TocantinsPay.Api.csproj|solutionrelative:tocantinspay.api\\tocantinspay.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E7B7F16C-E5DF-4E5C-9D26-C2F5537E84B4}|TocantinsPay.Api\\TocantinsPay.Api.csproj|d:\\dev\\estudos\\backend\\dotnet\\tocantinspay\\tocantinspay.api\\tocantinspay.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7B7F16C-E5DF-4E5C-9D26-C2F5537E84B4}|TocantinsPay.Api\\TocantinsPay.Api.csproj|solutionrelative:tocantinspay.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -18,37 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TocantinsPay.Api",
-              "DocumentMoniker": "D:\\Dev\\Estudos\\backend\\DotNet\\TocantinsPay\\TocantinsPay.Api\\TocantinsPay.Api\\TocantinsPay.Api.csproj",
-              "RelativeDocumentMoniker": "TocantinsPay.Api\\TocantinsPay.Api.csproj",
-              "ToolTip": "D:\\Dev\\Estudos\\backend\\DotNet\\TocantinsPay\\TocantinsPay.Api\\TocantinsPay.Api\\TocantinsPay.Api.csproj*",
-              "RelativeToolTip": "TocantinsPay.Api\\TocantinsPay.Api.csproj*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-04-23T18:30:02.05Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "D:\\Dev\\Estudos\\backend\\DotNet\\TocantinsPay\\TocantinsPay.Api\\TocantinsPay.Api\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "TocantinsPay.Api\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "D:\\Dev\\Estudos\\backend\\DotNet\\TocantinsPay\\TocantinsPay.Api\\TocantinsPay.Api\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "TocantinsPay.Api\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-23T18:24:27.913Z",
-              "EditorCaption": ""
             }
           ]
         }

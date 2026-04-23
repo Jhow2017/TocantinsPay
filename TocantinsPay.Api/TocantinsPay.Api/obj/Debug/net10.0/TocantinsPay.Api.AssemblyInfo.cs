@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TocantinsPay.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5cf92fedc53e9eafb0c68b8071c6445b008b81d6")]
 [assembly: System.Reflection.AssemblyProductAttribute("TocantinsPay.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TocantinsPay.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

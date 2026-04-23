@@ -1,3 +1,9 @@
 <Solution>
-  <Project Path="TocantinsPay.Api/TocantinsPay.Api.csproj" />
+  <Folder Name="/src/">
+    <Project Path="src/TocantinsPay.Api/TocantinsPay.Api.csproj" />
+    <Project Path="src/TocantinsPay.Application/TocantinsPay.Application.csproj" />
+    <Project Path="src/TocantinsPay.Core/TocantinsPay.Core.csproj" />
+    <Project Path="src/TocantinsPay.Infrastructure/TocantinsPay.Infrastructure.csproj" />
+    <Project Path="src/TocantinsPay.Shared/TocantinsPay.Shared.csproj" />
+  </Folder>
 </Solution>
