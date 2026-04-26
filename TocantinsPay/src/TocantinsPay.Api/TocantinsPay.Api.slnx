@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="D:/Dev/Estudos/backend/DotNet/TocantinsPay/TocantinsPay/src/TocantinsPay.Api/TocantinsPay.Api.csproj" />
+  <Project Path="D:/Dev/Estudos/backend/DotNet/TocantinsPay/TocantinsPay/src/TocantinsPay.Application/TocantinsPay.Application.csproj" Id="63980ff3-00e3-4dbd-b78a-19787dd335e0" />
+  <Project Path="D:/Dev/Estudos/backend/DotNet/TocantinsPay/TocantinsPay/src/TocantinsPay.Core/TocantinsPay.Core.csproj" Id="de819b6e-27ba-44f4-916b-05517bb814fc" />
+  <Project Path="D:/Dev/Estudos/backend/DotNet/TocantinsPay/TocantinsPay/src/TocantinsPay.Infrastructure/TocantinsPay.Infrastructure.csproj" Id="39fe8f69-3dd9-492b-94cf-3eee807ca276" />
+  <Project Path="D:/Dev/Estudos/backend/DotNet/TocantinsPay/TocantinsPay/src/TocantinsPay.Shared/TocantinsPay.Shared.csproj" Id="e72863d8-bf65-4c5a-92d7-129cc2323091" />
+</Solution>

@@ -1,0 +1,6 @@
+@TocantinsPay.Api_HostAddress = http://localhost:5072
+
+GET {{TocantinsPay.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
